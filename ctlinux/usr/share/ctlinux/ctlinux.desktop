@@ -1,0 +1,20 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment[en_US]=Allows connection to the Internet with the device CtPhone CAMTEL
+Comment=Permet la connexion à Internet avec le périphérique CtPhone de CAMTEL
+Encoding=UTF-8
+Exec=/usr/share/ctlinux/start
+GenericName[en_US]=Internet connection with CtPhone
+GenericName=Connexion Internet avec le CtPhone
+Icon=/usr/share/ctlinux/icon.png
+MimeType=
+Name=CtLinux
+Path=/usr/share/ctlinux/
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=none
+X-KDE-SubstituteUID=true
+Categories=Utility;System;Qt;Network;Dialup;

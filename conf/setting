@@ -1,0 +1,4 @@
+Username = "camtel@camnet.cm"
+Password = "camtel"
+Phone = "#777"
+Interface = "ppp0"

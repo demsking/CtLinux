@@ -1,0 +1,2 @@
+#/bin/bash
+kdesudo -i "/usr/share/ctlinux/icon.png" -c /usr/share/ctlinux/ctlinux -d

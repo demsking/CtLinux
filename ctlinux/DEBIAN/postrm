@@ -1,0 +1,4 @@
+#!/bin/bash
+rm /usr/bin/ctlinux
+rm /usr/share/applications/ctlinux.desktop
+rm /etc/udev/rules.d/026_ti_usb_3410.rules

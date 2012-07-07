@@ -1,0 +1,9 @@
+Package: ctlinux
+Version: 1.0
+Section: net web
+Priority: optional
+Architecture: all
+Pre-Depends: bash, wvdial
+Build-Depends: wvdial
+Maintainer: Hans Sebastien <demanouhans@gmail.com>
+Description:  Logiciel permettant la connexion a Internet a travers les modems CtPhone de l'operateur CAMTEL (Cameroun).
